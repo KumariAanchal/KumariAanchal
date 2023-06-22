@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Kumari Aanchal</h1>
 <h3 align="left">A passionate frontend developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)">
 
 - 🔭 I’m currently working on **Productivity Analyzer**
 
