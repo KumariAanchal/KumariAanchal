@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kumari Aanchal</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="left">A passionate frontend developer.</h3>
 
 
 - 🔭 I’m currently working on **Productivity Analyzer**
