@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kumari Aanchal</h1>
 <h3 align="center">A passionate frontend developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1KLxpEvpok9b19ZQP53ZOjUsgyfFfCbtE/view?usp=sharing">
 
 - 🔭 I’m currently working on **Productivity Analyzer**
 
