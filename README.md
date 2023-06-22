@@ -1,3 +1,4 @@
+![Self](https://github.com/KumariAanchal/KumariAanchal/blob/main/Kumari%20Aanchal%20github.png)
 <h1 align="left">Hi 👋, I'm Kumari Aanchal</h1>
 <h3 align="left">A passionate frontend developer.</h3>
 
