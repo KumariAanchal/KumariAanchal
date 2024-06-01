@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Kumari Aanchal</h1>
-<h3 align="left">A passionate frontend developer and a Cyber Security Enthusiast.</h3>
+<h3 align="left">A passionate Data Analyst and a Cyber Security Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on **Productivity Analyzer**
+- 🔭 I’m currently working as **Data Analyst Intern**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Tableau and Power BI**
 
 - 📫 Reach me through :  **aanchalkumari4141@gmail.com**
 
